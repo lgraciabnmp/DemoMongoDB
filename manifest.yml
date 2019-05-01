@@ -36,3 +36,5 @@ applications:
                 QUJXMHZTajRuTHoKK1BRenAvQjljUW1PTzhkQ2UwNDlRM29hVUE9PQotLS0tLUVO
                 RCBDRVJUSUZJQ0FURS0tLS0tCgo=
                 -----END CERTIFICATE-----
+    buildpacks:
+      - https://github.com/cloudfoundry/java-buildpack.git
