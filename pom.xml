@@ -39,11 +39,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
+		<!--<dependency>
 			<groupId>com.github.snowch</groupId>
 			<artifactId>spring-boot-ssl-truststore-gen</artifactId>
 			<version>master</version>
-		</dependency>
+		</dependency>-->
 		<!--1a
 		<dependency>
 			<groupId>com.orange.clara.cloud.boot.ssl-truststore-gen</groupId>
@@ -76,11 +76,11 @@
 			<name>Spring Milestones</name>
 			<url>https://repo.spring.io/milestone</url>
 		</repository>
-		<repository>
+		<!--<repository>
 			<id>jitpack.io</id>
 			<url>https://jitpack.io</url>
 		</repository>
-
+		-->
 		<!--1a
 		<repository>
 			<id>jcenter</id>
